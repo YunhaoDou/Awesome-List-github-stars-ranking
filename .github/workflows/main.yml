@@ -2,7 +2,7 @@ name: Update GitHub Ranking
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天凌晨 12 点运行 (UTC)
+    - cron: '0 */6 * * *' # 每天凌晨 12 点运行 (UTC)
   workflow_dispatch: # 允许手动点击按钮运行
 
 jobs:
