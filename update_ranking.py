@@ -5,11 +5,18 @@ from datetime import datetime
 
 # 配置分类：键名对应 README 中的标题，值对应 GitHub API 查询语句
 CONFIG = {
-    "Global": "stars:>1",
+    "All Categories (Global)": "stars:>1",
     "Python": "language:python stars:>1",
+    "JavaScript": "language:javascript stars:>1",
+    "TypeScript": "language:typescript stars:>1",
     "Go": "language:go stars:>1",
     "Rust": "language:rust stars:>1",
-    "JavaScript": "language:javascript stars:>1"
+    "C#": "language:csharp stars:>1",
+    "C++": "language:cpp stars:>1",
+    "PHP": "language:php stars:>1",
+    "HTML": "language:html stars:>1",
+    "CSS": "language:css stars:>1",
+    "Markdown": "language:markdown stars:>1"
 }
 
 TOKEN = os.environ.get("G_TOKEN")
