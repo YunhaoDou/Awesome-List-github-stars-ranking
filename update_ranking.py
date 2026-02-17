@@ -5,12 +5,12 @@ import os
 token = os.environ.get("G_TOKEN")
 headers = {"Authorization": f"token {token}"} if token else {}
 
-def get_top_50(language=None):
+def get_top_100(language=None):
     query = "stars:>1"
     if language:
         query += f" language:{language}"
     
-    url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=50"
+    url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=100"
     response = requests.get(url, headers=headers)
     return response.json().get('items', [])
 
@@ -28,8 +28,8 @@ def generate_table(items):
 
 # 3. 写入 README.md
 if __name__ == "__main__":
-    all_top = get_top_50()
-    content = "# GitHub Global Ranking (Top 50)\n\n" + generate_table(all_top)
+    all_top = get_top_100()
+    content = "# GitHub Global Ranking (Top 100)\n\n" + generate_table(all_top)
     
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
