@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/YunhaoDou/Awesome-List-github-stars-ranking)](https://github.com/YunhaoDou/Awesome-List-github-stars-ranking/commits/main)
 
-> **Last Updated:** 2026-06-24 19:22 UTC
+> **Last Updated:** 2026-06-25 01:58 UTC
 
 Top 100 GitHub repositories by star count, globally and per language. Auto-refreshed every 6 hours via GitHub Actions.
 
@@ -31,28 +31,28 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 
 | Rank | Repository | Stars | Language | Description |
 |:---:|:---|:---:|:---:|:---|
-| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 519.2k | `Markdown` | Master programming by recreating your favorite technologies from scratch. |
-| 2 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 478.5k | `N/A` | 😎 Awesome lists about all kinds of interesting topics |
-| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 450.4k | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programmi... |
-| 4 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 444.0k | `Python` | A collective list of free APIs |
-| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 390.7k | `Python` | :books: Freely available programming books |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 519.3k | `Markdown` | Master programming by recreating your favorite technologies from scratch. |
+| 2 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 478.6k | `N/A` | 😎 Awesome lists about all kinds of interesting topics |
+| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 450.5k | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programmi... |
+| 4 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 444.1k | `Python` | A collective list of free APIs |
+| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 390.8k | `Python` | :books: Freely available programming books |
 | 6 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 380.3k | `TypeScript` | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
 | 7 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 358.2k | `TypeScript` | Interactive roadmaps, guides and other educational content to help developers... |
 | 8 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 354.7k | `Python` | Learn how to design large-scale systems. Prep for the system design interview... |
-| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 353.8k | `N/A` | A complete computer science study plan to become a software engineer. |
-| 10 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 304.6k | `Python` | An opinionated list of Python frameworks, libraries, tools, and resources |
-| 11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 300.9k | `N/A` | A list of Free Software network services and web applications which can be ho... |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 353.9k | `N/A` | A complete computer science study plan to become a software engineer. |
+| 10 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 304.7k | `Python` | An opinionated list of Python frameworks, libraries, tools, and resources |
+| 11 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 301.0k | `N/A` | A list of Free Software network services and web applications which can be ho... |
 | 12 | [996icu/996.ICU](https://github.com/996icu/996.ICU) | 276.3k | `N/A` | Repo for counting stars and contributing. Press F to pay respect to glorious ... |
-| 13 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 270.7k | `N/A` | Curated list of project-based tutorials |
+| 13 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 270.8k | `N/A` | Curated list of project-based tutorials |
 | 14 | [react/react](https://github.com/react/react) | 246.2k | `JavaScript` | The library for web and native user interfaces. |
-| 15 | [obra/superpowers](https://github.com/obra/superpowers) | 237.7k | `Shell` | An agentic skills framework & software development methodology that works. |
+| 15 | [obra/superpowers](https://github.com/obra/superpowers) | 237.8k | `Shell` | An agentic skills framework & software development methodology that works. |
 | 16 | [torvalds/linux](https://github.com/torvalds/linux) | 237.6k | `C` | Linux kernel source tree |
 | 17 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 230.1k | `N/A` | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-line... |
 | 18 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 222.2k | `Python` | All Algorithms implemented in Python |
-| 19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 221.1k | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 19 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 221.2k | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory,... |
 | 20 | [vuejs/vue](https://github.com/vuejs/vue) | 210.1k | `TypeScript` | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
 | 21 | [ossu/computer-science](https://github.com/ossu/computer-science) | 205.2k | `HTML` | 🎓 Path to a free self-taught education in Computer Science! |
-| 22 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 201.9k | `Python` | The agent that grows with you |
+| 22 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 202.1k | `Python` | The agent that grows with you |
 | 23 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196.1k | `JavaScript` | 📝 Algorithms and data structures implemented in JavaScript with explanations ... |
 | 24 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 196.0k | `C++` | An Open Source Machine Learning Framework for Everyone |
 | 25 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 194.3k | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — ... |
@@ -63,11 +63,11 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 30 | [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) | 184.6k | `N/A` | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | 31 | [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 184.5k | `N/A` | A book series (2 published editions) on the JS language. |
 | 32 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 183.7k | `Jupyter Notebook` | Python - 100天从新手到大师 |
-| 33 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 181.5k | `N/A` | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej ... |
+| 33 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 181.6k | `N/A` | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej ... |
 | 34 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 180.6k | `Batchfile` | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and ... |
 | 35 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 180.3k | `HTML` | DigitalPlat FreeDomain: Free Domain For Everyone |
-| 36 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 178.1k | `TypeScript` | The open source coding agent. |
-| 37 | [flutter/flutter](https://github.com/flutter/flutter) | 177.2k | `Dart` | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| 36 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 178.2k | `TypeScript` | The open source coding agent. |
+| 37 | [flutter/flutter](https://github.com/flutter/flutter) | 177.4k | `Dart` | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 | 38 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 176.3k | `Go` | A curated list of awesome Go frameworks, libraries and software |
 | 39 | [ollama/ollama](https://github.com/ollama/ollama) | 174.9k | `Go` | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen,... |
 | 40 | [github/gitignore](https://github.com/github/gitignore) | 174.6k | `N/A` | A collection of useful .gitignore templates |
@@ -78,26 +78,26 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 45 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 162.6k | `Python` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source p... |
 | 46 | [huggingface/transformers](https://github.com/huggingface/transformers) | 161.9k | `Python` | 🤗 Transformers: the model-definition framework for state-of-the-art machine l... |
 | 47 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 161.4k | `N/A` | Master the command line, in one page |
-| 48 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 158.7k | `Python` | Python tool for converting files and office documents to Markdown. |
+| 48 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 158.8k | `Python` | Python tool for converting files and office documents to Markdown. |
 | 49 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 156.6k | `JavaScript` | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
-| 50 | [anthropics/skills](https://github.com/anthropics/skills) | 154.7k | `Python` | Public repository for Agent Skills |
+| 50 | [anthropics/skills](https://github.com/anthropics/skills) | 154.8k | `Python` | Public repository for Agent Skills |
 | 51 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 150.0k | `Python` | Langflow is a powerful tool for building and deploying AI-powered agents and ... |
 | 52 | [airbnb/javascript](https://github.com/airbnb/javascript) | 148.1k | `JavaScript` | JavaScript Style Guide |
 | 53 | [langgenius/dify](https://github.com/langgenius/dify) | 146.5k | `TypeScript` | Production-ready platform for agentic workflow development. |
-| 54 | [mattpocock/skills](https://github.com/mattpocock/skills) | 144.7k | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
+| 54 | [mattpocock/skills](https://github.com/mattpocock/skills) | 144.9k | `Shell` | Skills for Real Engineers. Straight from my .claude directory. |
 | 55 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 144.3k | `C` | Display and control your Android device |
 | 56 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 142.9k | `Python` | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | 57 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 141.1k | `N/A` | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, J... |
 | 58 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 140.6k | `Python` | Command-line program to download videos from YouTube.com and other video sites |
-| 59 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 140.4k | `TypeScript` | Curated coding interview preparation materials for busy software engineers |
+| 59 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 140.5k | `TypeScript` | Curated coding interview preparation materials for busy software engineers |
 | 60 | [vercel/next.js](https://github.com/vercel/next.js) | 140.3k | `JavaScript` | The React Framework |
 | 61 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 140.1k | `Python` | The agent engineering platform. |
-| 62 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 138.6k | `TypeScript` | The API to search, scrape, and interact with the web at scale. 🔥 |
+| 62 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 138.7k | `TypeScript` | The API to search, scrape, and interact with the web at scale. 🔥 |
 | 63 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 135.5k | `C` | Microsoft PowerToys is a collection of utilities that supercharge productivit... |
 | 64 | [golang/go](https://github.com/golang/go) | 135.0k | `Go` | The Go programming language |
 | 65 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 134.5k | `Markdown` | Crack LeetCode, not only how, but also why.  |
 | 66 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 134.2k | `Python` | Claude Code is an agentic coding tool that lives in your terminal, understand... |
-| 67 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 128.2k | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
+| 67 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 128.3k | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
 | 68 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 128.2k | `JavaScript` | Coding articles to level up your development skills |
 | 69 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 127.9k | `Java` | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C... |
 | 70 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 127.7k | `TypeScript` | A modern GUI client based on Tauri, designed to run in Windows, macOS and Lin... |
@@ -111,23 +111,23 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 78 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 118.0k | `C++` | LLM inference in C/C++ |
 | 79 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 117.4k | `TypeScript` | A set of beautifully-designed, accessible components and a code distribution ... |
 | 80 | [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 117.2k | `N/A` | :books: 免费的计算机编程类中文书籍，欢迎投稿 |
-| 81 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 116.8k | `Rust` | An open-source remote desktop application designed for self-hosting, as an al... |
+| 81 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 116.9k | `Rust` | An open-source remote desktop application designed for self-hosting, as an al... |
 | 82 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 115.6k | `Shell` | A complete AI agency at your fingertips - From frontend wizards to Reddit com... |
 | 83 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 115.5k | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 | 84 | [github/spec-kit](https://github.com/github/spec-kit) | 115.3k | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
 | 85 | [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 115.0k | `N/A` | A collection of various awesome lists for hackers, pentesters and security re... |
-| 86 | [garrytan/gstack](https://github.com/garrytan/gstack) | 114.8k | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
+| 86 | [garrytan/gstack](https://github.com/garrytan/gstack) | 115.0k | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
 | 87 | [rust-lang/rust](https://github.com/rust-lang/rust) | 114.3k | `Rust` | Empowering everyone to build reliable and efficient software. |
 | 88 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | 113.3k | `JavaScript` | JavaScript 3D Library. |
 | 89 | [d3/d3](https://github.com/d3/d3) | 113.1k | `Shell` | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_... |
 | 90 | [godotengine/godot](https://github.com/godotengine/godot) | 113.0k | `C++` | Godot Engine – Multi-platform 2D and 3D game engine |
 | 91 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 112.3k | `Jupyter Notebook` | 21 Lessons, Get Started Building with Generative AI  |
-| 92 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 109.8k | `C#` | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
+| 92 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 109.9k | `C#` | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 | 93 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109.4k | `TypeScript` | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 | 94 | [axios/axios](https://github.com/axios/axios) | 109.1k | `JavaScript` | Promise based HTTP client for the browser and node.js |
 | 95 | [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 108.5k | `Java` | :cn: GitHub中文排行榜，各语言分设「软件 \| 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
 | 96 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 108.3k | `Rust` | Build smaller, faster, and more secure desktop and mobile applications with a... |
-| 97 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 107.7k | `Rust` | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
+| 97 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 107.8k | `Rust` | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
 | 98 | [fatedier/frp](https://github.com/fatedier/frp) | 107.5k | `Go` | A fast reverse proxy to help you expose a local server behind a NAT or firewa... |
 | 99 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | 107.3k | `Shell` | Papers from the computer science community to read and discuss. |
 | 100 | [denoland/deno](https://github.com/denoland/deno) | 107.3k | `Rust` | A modern runtime for JavaScript and TypeScript. |
@@ -137,19 +137,19 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 
 | Rank | Repository | Stars | Language | Description |
 |:---:|:---|:---:|:---:|:---|
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 444.0k | `Python` | A collective list of free APIs |
-| 2 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 390.7k | `Python` | :books: Freely available programming books |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 444.1k | `Python` | A collective list of free APIs |
+| 2 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 390.8k | `Python` | :books: Freely available programming books |
 | 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 354.7k | `Python` | Learn how to design large-scale systems. Prep for the system design interview... |
-| 4 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 304.6k | `Python` | An opinionated list of Python frameworks, libraries, tools, and resources |
+| 4 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 304.7k | `Python` | An opinionated list of Python frameworks, libraries, tools, and resources |
 | 5 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 222.2k | `Python` | All Algorithms implemented in Python |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 201.9k | `Python` | The agent that grows with you |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 202.1k | `Python` | The agent that grows with you |
 | 7 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 185.2k | `Python` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. ... |
 | 8 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 173.1k | `Python` | A feature-rich command-line audio/video downloader |
 | 9 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 163.9k | `Python` | Stable Diffusion web UI |
 | 10 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 162.6k | `Python` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source p... |
 | 11 | [huggingface/transformers](https://github.com/huggingface/transformers) | 161.9k | `Python` | 🤗 Transformers: the model-definition framework for state-of-the-art machine l... |
-| 12 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 158.7k | `Python` | Python tool for converting files and office documents to Markdown. |
-| 13 | [anthropics/skills](https://github.com/anthropics/skills) | 154.7k | `Python` | Public repository for Agent Skills |
+| 12 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 158.8k | `Python` | Python tool for converting files and office documents to Markdown. |
+| 13 | [anthropics/skills](https://github.com/anthropics/skills) | 154.8k | `Python` | Public repository for Agent Skills |
 | 14 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 150.0k | `Python` | Langflow is a powerful tool for building and deploying AI-powered agents and ... |
 | 15 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 142.9k | `Python` | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | 16 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 140.6k | `Python` | Command-line program to download videos from YouTube.com and other video sites |
@@ -159,51 +159,51 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 20 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 115.5k | `Python` | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 | 21 | [github/spec-kit](https://github.com/github/spec-kit) | 115.3k | `Python` | 💫 Toolkit to help you get started with Spec-Driven Development |
 | 22 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | 103.8k | `Python` | - |
-| 23 | [openai/whisper](https://github.com/openai/whisper) | 103.5k | `Python` | Robust Speech Recognition via Large-Scale Weak Supervision |
+| 23 | [openai/whisper](https://github.com/openai/whisper) | 103.6k | `Python` | Robust Speech Recognition via Large-Scale Weak Supervision |
 | 24 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 101.1k | `Python` | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 | 25 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 100.5k | `Python` | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | 26 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | 99.6k | `Python` | FastAPI framework, high performance, easy to learn, fast to code, ready for p... |
 | 27 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | 97.4k | `Python` | Magnificent app which corrects your previous console command. |
-| 28 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 96.0k | `Python` | An AI SKILL that provide design intelligence for building professional UI/UX ... |
-| 29 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 94.1k | `Python` | real time face swap and one-click video deepfake with only a single image |
-| 30 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 92.2k | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| 31 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 88.4k | `Python` | AI agents running research on single-GPU nanochat training automatically |
-| 32 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 88.3k | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 28 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 96.1k | `Python` | An AI SKILL that provide design intelligence for building professional UI/UX ... |
+| 29 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 94.2k | `Python` | real time face swap and one-click video deepfake with only a single image |
+| 30 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 92.3k | `Python` | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| 31 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 88.5k | `Python` | AI agents running research on single-GPU nanochat training automatically |
+| 32 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 88.4k | `Python` | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | 33 | [django/django](https://github.com/django/django) | 88.1k | `Python` | The Web framework for perfectionists with deadlines. |
 | 34 | [home-assistant/core](https://github.com/home-assistant/core) | 88.0k | `Python` | :house_with_garden: Open source home automation that puts local control and p... |
 | 35 | [3b1b/manim](https://github.com/3b1b/manim) | 87.8k | `Python` | Animation engine for explanatory math videos |
 | 36 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 85.4k | `Python` | Hunt down social media accounts by username across social networks |
-| 37 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 84.0k | `Python` | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| 37 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 84.1k | `Python` | A high-throughput and memory-efficient inference and serving engine for LLMs |
 | 38 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 83.7k | `Python` | Turn any PDF or image document into structured data for your AI. A powerful, ... |
 | 39 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 82.9k | `Python` | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernete... |
 | 40 | [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | 81.4k | `Python` | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、... |
 | 41 | [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 78.6k | `Python` | A list of useful payloads and bypass for Web Application Security and Pentest... |
 | 42 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 78.5k | `Python` | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
-| 43 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 78.2k | `Python` | 🙌 OpenHands: AI-Driven Development |
+| 43 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 78.3k | `Python` | 🙌 OpenHands: AI-Driven Development |
 | 44 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 77.8k | `Python` | ALL IN ONE Hacking Tool For Hackers |
 | 45 | [tensorflow/models](https://github.com/tensorflow/models) | 77.7k | `Python` | Models and examples built with TensorFlow |
-| 46 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 77.3k | `Python` | Self-hosted AI workspace.  |
-| 47 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 74.4k | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, and cr... |
+| 46 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | 77.5k | `Python` | Self-hosted AI workspace.  |
+| 47 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 74.5k | `Python` | An open-source long-horizon SuperAgent harness that researches, codes, and cr... |
 | 48 | [python/cpython](https://github.com/python/cpython) | 73.5k | `Python` | The Python programming language |
 | 49 | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 73.1k | `Python` | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
 | 50 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 73.0k | `Python` | A curated list of awesome Machine Learning frameworks, libraries and software. |
 | 51 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 72.5k | `Python` | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
 | 52 | [pallets/flask](https://github.com/pallets/flask) | 71.8k | `Python` | The Python micro framework for building web applications. |
-| 53 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 71.5k | `Python` | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, ... |
+| 53 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 71.7k | `Python` | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, ... |
 | 54 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 70.9k | `Python` | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++... |
 | 55 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 69.6k | `Python` | Financial data platform for analysts, quants and AI agents. |
 | 56 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 69.5k | `Python` | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, jo... |
 | 57 | [ansible/ansible](https://github.com/ansible/ansible) | 69.0k | `Python` | Ansible is a radically simple IT automation platform that makes your applicat... |
 | 58 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 69.0k | `Python` | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Langu... |
-| 59 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 68.7k | `Python` | Transforms complex documents like PDFs and Office docs into LLM-ready markdow... |
-| 60 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 68.2k | `Python` | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0... |
+| 59 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 68.9k | `Python` | Transforms complex documents like PDFs and Office docs into LLM-ready markdow... |
+| 60 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 68.3k | `Python` | Bash is all you need -  A nano claude code–like 「agent harness」, built from 0... |
 | 61 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 67.3k | `Python` | Unsloth Studio is a web UI for training and running open models like Gemma 4,... |
 | 62 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 67.1k | `Python` | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群... |
 | 63 | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67.0k | `Python` | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side n... |
 | 64 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 66.4k | `Python` | The official gpt4free repository \| various collection of powerful language m... |
 | 65 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 66.4k | `Python` | scikit-learn: machine learning in Python |
 | 66 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 66.0k | `Python` | The 30 Days of Python programming challenge is a step-by-step guide to learn ... |
-| 67 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 65.9k | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a single r... |
+| 67 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 66.0k | `Python` | 🕷️ An adaptive Web Scraping framework that handles everything from a single r... |
 | 68 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 65.8k | `Python` | A curated list of awesome Claude Skills, resources, and tools for customizing... |
 | 69 | [localstack/localstack](https://github.com/localstack/localstack) | 65.1k | `Python` | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Ser... |
 | 70 | [keras-team/keras](https://github.com/keras-team/keras) | 64.1k | `Python` | Deep Learning for humans |
@@ -244,7 +244,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | Rank | Repository | Stars | Language | Description |
 |:---:|:---|:---:|:---:|:---|
 | 1 | [react/react](https://github.com/react/react) | 246.2k | `JavaScript` | The library for web and native user interfaces. |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 221.1k | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory,... |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 221.2k | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory,... |
 | 3 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196.1k | `JavaScript` | 📝 Algorithms and data structures implemented in JavaScript with explanations ... |
 | 4 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 156.6k | `JavaScript` | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
 | 5 | [airbnb/javascript](https://github.com/airbnb/javascript) | 148.1k | `JavaScript` | JavaScript Style Guide |
@@ -262,7 +262,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 17 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 84.1k | `JavaScript` | Persistent Context Across Sessions for Every Agent –  Captures everything you... |
 | 18 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 79.7k | `JavaScript` | :zap: Dynamically generated stats for your github readmes |
 | 19 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 76.7k | `JavaScript` | The iconic SVG, font, and CSS toolkit |
-| 20 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 76.5k | `JavaScript` | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65... |
+| 20 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 76.6k | `JavaScript` | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65... |
 | 21 | [typicode/json-server](https://github.com/typicode/json-server) | 75.6k | `JavaScript` | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
 | 22 | [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | 71.8k | `JavaScript` | The HTML Presentation Framework |
 | 23 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | 70.4k | `JavaScript` | JavaScript animation engine |
@@ -284,8 +284,8 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 39 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 57.5k | `JavaScript` | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，... |
 | 40 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | `JavaScript` | React-based framework with performance, scalability, and security built in. |
 | 41 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode) | 55.8k | `JavaScript` | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的... |
-| 42 | [santifer/career-ops](https://github.com/santifer/career-ops) | 55.5k | `JavaScript` | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboa... |
-| 43 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 54.8k | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The best c... |
+| 42 | [santifer/career-ops](https://github.com/santifer/career-ops) | 55.6k | `JavaScript` | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboa... |
+| 43 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 55.4k | `JavaScript` | Makes your AI agent think like the laziest senior dev in the room. The best c... |
 | 44 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | 54.1k | `JavaScript` | Independent technology for modern publishing, memberships, subscriptions and ... |
 | 45 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 53.5k | `JavaScript` | PDF Reader in JavaScript |
 | 46 | [prettier/prettier](https://github.com/prettier/prettier) | 52.1k | `JavaScript` | Prettier is an opinionated code formatter. |
@@ -293,7 +293,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 48 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 52.0k | `JavaScript` | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,... |
 | 49 | [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 51.1k | `JavaScript` | Semantic is a UI component framework based around useful principles from natu... |
 | 50 | [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | 50.9k | `JavaScript` | ⭐️  Companies that don't have a broken hiring process |
-| 51 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 50.2k | `JavaScript` | Taste-Skill - gives your AI good taste. stops the AI from generating boring, ... |
+| 51 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 50.3k | `JavaScript` | Taste-Skill - gives your AI good taste. stops the AI from generating boring, ... |
 | 52 | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 49.7k | `JavaScript` | Based on a true story |
 | 53 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 49.6k | `JavaScript` | Breakthrough Method for Agile Ai Driven Development |
 | 54 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | 48.7k | `JavaScript` | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the sa... |
@@ -304,7 +304,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 59 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 46.5k | `JavaScript` | 30 days of JavaScript programming challenge is a step-by-step guide to learn ... |
 | 60 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46.2k | `JavaScript` | A browser based code editor |
 | 61 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 46.1k | `JavaScript` | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and ... |
-| 62 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 45.7k | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Co... |
+| 62 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 45.8k | `JavaScript` | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Co... |
 | 63 | [google/zx](https://github.com/google/zx) | 45.6k | `JavaScript` | A tool for writing better scripts |
 | 64 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45.2k | `JavaScript` | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
 | 65 | [usebruno/bruno](https://github.com/usebruno/bruno) | 45.1k | `JavaScript` | Opensource IDE For Exploring and Testing API's (lightweight alternative to Po... |
@@ -319,7 +319,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 74 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | 41.8k | `JavaScript` | An open source collection of animated, interactive & fully customizable React... |
 | 75 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | 41.5k | `JavaScript` | The 1.x line is frozen - features and bugfixes now happen on https://github.c... |
 | 76 | [nwjs/nw.js](https://github.com/nwjs/nw.js) | 41.2k | `JavaScript` | Call all Node.js modules directly from DOM/WebWorker and enable a new way of ... |
-| 77 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 41.1k | `JavaScript` | The design language that makes your AI harness better at design. |
+| 77 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 41.2k | `JavaScript` | The design language that makes your AI harness better at design. |
 | 78 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 40.5k | `JavaScript` | Source for remoteintech.company — a community-maintained directory of remote-... |
 | 79 | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 40.4k | `JavaScript` | The best design tools and plugins for everything 👉 |
 | 80 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 40.1k | `JavaScript` | 📄  Configuration files that enhance Cursor AI editor experience with custom r... |
@@ -349,32 +349,32 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 
 | Rank | Repository | Stars | Language | Description |
 |:---:|:---|:---:|:---:|:---|
-| 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 450.4k | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programmi... |
+| 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 450.5k | `TypeScript` | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programmi... |
 | 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 380.3k | `TypeScript` | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
 | 3 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 358.2k | `TypeScript` | Interactive roadmaps, guides and other educational content to help developers... |
 | 4 | [vuejs/vue](https://github.com/vuejs/vue) | 210.1k | `TypeScript` | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
 | 5 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 193.9k | `TypeScript` | Fair-code workflow automation platform with native AI capabilities. Combine v... |
 | 6 | [microsoft/vscode](https://github.com/microsoft/vscode) | 186.8k | `TypeScript` | Visual Studio Code |
-| 7 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 178.1k | `TypeScript` | The open source coding agent. |
+| 7 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 178.2k | `TypeScript` | The open source coding agent. |
 | 8 | [langgenius/dify](https://github.com/langgenius/dify) | 146.5k | `TypeScript` | Production-ready platform for agentic workflow development. |
-| 9 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 140.4k | `TypeScript` | Curated coding interview preparation materials for busy software engineers |
-| 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 138.6k | `TypeScript` | The API to search, scrape, and interact with the web at scale. 🔥 |
-| 11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 128.2k | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
+| 9 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 140.5k | `TypeScript` | Curated coding interview preparation materials for busy software engineers |
+| 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 138.7k | `TypeScript` | The API to search, scrape, and interact with the web at scale. 🔥 |
+| 11 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 128.3k | `TypeScript` | Collection of publicly available IPTV channels from all over the world |
 | 12 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 127.7k | `TypeScript` | A modern GUI client based on Tauri, designed to run in Windows, macOS and Lin... |
 | 13 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 126.1k | `TypeScript` | Virtual whiteboard for sketching hand-drawn like diagrams |
 | 14 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 117.4k | `TypeScript` | A set of beautifully-designed, accessible components and a code distribution ... |
-| 15 | [garrytan/gstack](https://github.com/garrytan/gstack) | 114.8k | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
+| 15 | [garrytan/gstack](https://github.com/garrytan/gstack) | 115.0k | `TypeScript` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as C... |
 | 16 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109.4k | `TypeScript` | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 | 17 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 105.5k | `TypeScript` | An open-source AI agent that brings the power of Gemini directly into your te... |
 | 18 | [supabase/supabase](https://github.com/supabase/supabase) | 104.8k | `TypeScript` | The Postgres development platform. Supabase gives you a dedicated Postgres da... |
-| 19 | [immich-app/immich](https://github.com/immich-app/immich) | 104.3k | `TypeScript` | High performance self-hosted photo and video management solution. |
+| 19 | [immich-app/immich](https://github.com/immich-app/immich) | 104.4k | `TypeScript` | High performance self-hosted photo and video management solution. |
 | 20 | [angular/angular](https://github.com/angular/angular) | 100.4k | `TypeScript` | Deliver web apps with confidence 🚀 |
 | 21 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 98.5k | `TypeScript` | An enterprise-class UI design language and React UI library |
 | 22 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 95.7k | `TypeScript` | A utility-first CSS framework for rapid UI development. |
 | 23 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 95.2k | `TypeScript` | JavaScript API for Chrome and Firefox |
 | 24 | [microsoft/playwright](https://github.com/microsoft/playwright) | 91.6k | `TypeScript` | Playwright is a framework for Web Testing and Automation. It allows testing C... |
 | 25 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 90.4k | `TypeScript` | Storybook is the industry standard workshop for building, documenting, and te... |
-| 26 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | 88.8k | `TypeScript` | Generation of diagrams like flowcharts or sequence diagrams from text in a si... |
+| 26 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | 88.9k | `TypeScript` | Generation of diagrams like flowcharts or sequence diagrams from text in a si... |
 | 27 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 88.3k | `TypeScript` | ✨ Light and Fast AI Assistant. Support: Web \| iOS \| MacOS \| Android \|  Li... |
 | 28 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 87.7k | `TypeScript` | Model Context Protocol Servers |
 | 29 | [realworld-apps/realworld](https://github.com/realworld-apps/realworld) | 83.7k | `TypeScript` | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered ... |
@@ -387,23 +387,23 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 36 | [apache/superset](https://github.com/apache/superset) | 73.5k | `TypeScript` | Apache Superset is a Data Visualization and Data Exploration Platform |
 | 37 | [strapi/strapi](https://github.com/strapi/strapi) | 72.5k | `TypeScript` | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeSc... |
 | 38 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | 72.3k | `TypeScript` | A terminal for a more modern age |
-| 39 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 71.4k | `TypeScript` | The open-source app everyone uses to manage agents at work |
-| 40 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 70.6k | `TypeScript` | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ... |
+| 39 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 71.5k | `TypeScript` | The open-source app everyone uses to manage agents at work |
+| 40 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 70.7k | `TypeScript` | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ... |
 | 41 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 69.7k | `TypeScript` | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next... |
-| 42 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 67.4k | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interactive kn... |
+| 42 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 67.5k | `TypeScript` | Graphs that teach > graphs that impress. Turn any code into an interactive kn... |
 | 43 | [apache/echarts](https://github.com/apache/echarts) | 66.6k | `TypeScript` | Apache ECharts is a powerful, interactive charting and data visualization lib... |
-| 44 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | 65.4k | `TypeScript` | Easy to maintain open source documentation websites. |
-| 45 | [earendil-works/pi](https://github.com/earendil-works/pi) | 65.3k | `TypeScript` | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
-| 46 | [cline/cline](https://github.com/cline/cline) | 63.8k | `TypeScript` | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. |
+| 44 | [earendil-works/pi](https://github.com/earendil-works/pi) | 65.4k | `TypeScript` | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 45 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | 65.4k | `TypeScript` | Easy to maintain open source documentation websites. |
+| 46 | [cline/cline](https://github.com/cline/cline) | 63.9k | `TypeScript` | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. |
 | 47 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 63.6k | `TypeScript` | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative |
 | 48 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 63.5k | `TypeScript` | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harne... |
 | 49 | [socketio/socket.io](https://github.com/socketio/socket.io) | 63.2k | `TypeScript` | Bidirectional and low-latency communication for every platform |
 | 50 | [reduxjs/redux](https://github.com/reduxjs/redux) | 61.5k | `TypeScript` | A JS library for predictable global state management |
-| 51 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 61.2k | `TypeScript` | 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent s... |
+| 51 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 61.3k | `TypeScript` | 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent s... |
 | 52 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 60.5k | `TypeScript` | the full-stack Vue framework |
 | 53 | [withastro/astro](https://github.com/withastro/astro) | 60.5k | `TypeScript` | The web framework for content-driven websites. ⭐️ Star to support our work! |
-| 54 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 59.5k | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, geopoli... |
-| 55 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 59.5k | `TypeScript` | The open-source CapCut alternative |
+| 54 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 59.6k | `TypeScript` | Real-time global intelligence dashboard. AI-powered news aggregation, geopoli... |
+| 55 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 59.6k | `TypeScript` | The open-source CapCut alternative |
 | 56 | [pmndrs/zustand](https://github.com/pmndrs/zustand) | 58.4k | `TypeScript` | 🐻 Bear necessities for state management in React |
 | 57 | [upstash/context7](https://github.com/upstash/context7) | 58.0k | `TypeScript` | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors |
 | 58 | [marktext/marktext](https://github.com/marktext/marktext) | 57.8k | `TypeScript` | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
@@ -411,7 +411,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 60 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 56.4k | `TypeScript` | Spec-driven development (SDD) for AI coding assistants. |
 | 61 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 56.4k | `TypeScript` | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. I... |
 | 62 | [laurent22/joplin](https://github.com/laurent22/joplin) | 55.3k | `TypeScript` | Joplin - the privacy-focused note taking app with sync capabilities for Windo... |
-| 63 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 54.1k | `TypeScript` | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code... |
+| 63 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 54.2k | `TypeScript` | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code... |
 | 64 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 54.0k | `TypeScript` | Build AI Agents, Visually |
 | 65 | [vuejs/core](https://github.com/vuejs/core) | 53.9k | `TypeScript` | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for b... |
 | 66 | [makeplane/plane](https://github.com/makeplane/plane) | 52.9k | `TypeScript` | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a mod... |
@@ -425,7 +425,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 74 | [TanStack/query](https://github.com/TanStack/query) | 49.8k | `TypeScript` | 🤖 Powerful asynchronous state management, server-state utilities and data fet... |
 | 75 | [chenglou/pretext](https://github.com/chenglou/pretext) | 48.7k | `TypeScript` | Fast, accurate & comprehensive text measurement & layout |
 | 76 | [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) | 48.3k | `TypeScript` | Collection of TypeScript type challenges with online judge |
-| 77 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 48.2k | `TypeScript` | Build infinite canvas apps in React with the tldraw SDK. World's best, top-mo... |
+| 77 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 48.3k | `TypeScript` | Build infinite canvas apps in React with the tldraw SDK. World's best, top-mo... |
 | 78 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 47.8k | `TypeScript` | AI productivity studio with smart chat, autonomous agents, and 300+ assistant... |
 | 79 | [pixijs/pixijs](https://github.com/pixijs/pixijs) | 47.6k | `TypeScript` | The HTML5 Creation Engine: Create beautiful digital content with the fastest,... |
 | 80 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | 47.4k | `TypeScript` | Presentation Slides for Developers |
@@ -463,14 +463,14 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 6 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | 88.7k | `Go` | Gin is a high-performance HTTP web framework written in Go. It provides a Mar... |
 | 7 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | 88.7k | `Go` | The world’s fastest framework for building websites. |
 | 8 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 85.8k | `Go` | Open Source Continuous File Synchronization |
-| 9 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 83.5k | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine ... |
+| 9 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 83.6k | `Go` | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine ... |
 | 10 | [junegunn/fzf](https://github.com/junegunn/fzf) | 81.2k | `Go` | :cherry_blossom: A command-line fuzzy finder |
 | 11 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 79.6k | `Go` | simple terminal UI for git commands |
 | 12 | [netdata/netdata](https://github.com/netdata/netdata) | 79.4k | `Go` | The fastest path to AI-powered full stack observability, even for lean teams. |
 | 13 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 73.5k | `Go` | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
 | 14 | [moby/moby](https://github.com/moby/moby) | 71.7k | `Go` | The Moby Project - a collaborative project for the container ecosystem to ass... |
 | 15 | [nektos/act](https://github.com/nektos/act) | 70.8k | `Go` | Run your GitHub Actions locally 🚀 |
-| 16 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 64.8k | `Go` | The Prometheus monitoring system and time series database. |
+| 16 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 64.7k | `Go` | The Prometheus monitoring system and time series database. |
 | 17 | [traefik/traefik](https://github.com/traefik/traefik) | 63.7k | `Go` | The Cloud Native Application Proxy |
 | 18 | [minio/minio](https://github.com/minio/minio) | 61.2k | `Go` | MinIO is a high-performance, S3 compatible object store, open sourced under G... |
 | 19 | [usememos/memos](https://github.com/usememos/memos) | 61.0k | `Go` | Open-source, self-hosted note-taking tool built for quick capture. Markdown-n... |
@@ -497,12 +497,12 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 40 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 41.4k | `Go` | Xray panel supporting multi-protocol multi-user expire day & traffic & IP lim... |
 | 41 | [juanfont/headscale](https://github.com/juanfont/headscale) | 40.4k | `Go` | An open source, self-hosted implementation of the Tailscale control server |
 | 42 | [pingcap/tidb](https://github.com/pingcap/tidb) | 40.2k | `Go` | TiDB is built for agentic workloads that grow unpredictably, with ACID guaran... |
-| 43 | [evanw/esbuild](https://github.com/evanw/esbuild) | 39.9k | `Go` | An extremely fast bundler for the web |
+| 43 | [evanw/esbuild](https://github.com/evanw/esbuild) | 40.0k | `Go` | An extremely fast bundler for the web |
 | 44 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 39.9k | `Go` | A unified AI model hub for aggregation & distribution. It supports cross-conv... |
 | 45 | [photoprism/photoprism](https://github.com/photoprism/photoprism) | 39.9k | `Go` | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
 | 46 | [gofiber/fiber](https://github.com/gofiber/fiber) | 39.9k | `Go` | ⚡️ Express inspired web framework written in Go |
-| 47 | [go-gorm/gorm](https://github.com/go-gorm/gorm) | 39.8k | `Go` | The fantastic ORM library for Golang, aims to be developer friendly |
-| 48 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 39.8k | `Go` | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happen... |
+| 47 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 39.8k | `Go` | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happen... |
+| 48 | [go-gorm/gorm](https://github.com/go-gorm/gorm) | 39.8k | `Go` | The fantastic ORM library for Golang, aims to be developer friendly |
 | 49 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 38.3k | `Go` | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/... |
 | 50 | [istio/istio](https://github.com/istio/istio) | 38.2k | `Go` | Connect, secure, control, and observe services. |
 | 51 | [multica-ai/multica](https://github.com/multica-ai/multica) | 37.9k | `Go` | The open-source managed agents platform. Turn coding agents into real teammat... |
@@ -525,8 +525,8 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 68 | [derailed/k9s](https://github.com/derailed/k9s) | 34.0k | `Go` | 🐶 Kubernetes CLI To Manage Your Clusters In Style! |
 | 69 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | 33.8k | `Go` | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetC... |
 | 70 | [k3s-io/k3s](https://github.com/k3s-io/k3s) | 33.3k | `Go` | Lightweight Kubernetes |
-| 71 | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 33.1k | `Go` | A cloud-native Go microservices framework with cli tool for productivity. |
-| 72 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 33.1k | `Go` | SeaweedFS is a distributed storage system for object storage (S3), file syste... |
+| 71 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 33.1k | `Go` | SeaweedFS is a distributed storage system for object storage (S3), file syste... |
+| 72 | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 33.1k | `Go` | A cloud-native Go microservices framework with cli tool for productivity. |
 | 73 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 32.9k | `Go` | The easiest, most secure way to use WireGuard and 2FA. |
 | 74 | [labstack/echo](https://github.com/labstack/echo) | 32.5k | `Go` | High performance, minimalist Go web framework |
 | 75 | [beego/beego](https://github.com/beego/beego) | 32.4k | `Go` | beego is an open-source, high-performance web framework for the Go programmin... |
@@ -562,18 +562,18 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | Rank | Repository | Stars | Language | Description |
 |:---:|:---|:---:|:---:|:---|
 | 1 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 194.3k | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — ... |
-| 2 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 116.8k | `Rust` | An open-source remote desktop application designed for self-hosting, as an al... |
+| 2 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 116.9k | `Rust` | An open-source remote desktop application designed for self-hosting, as an al... |
 | 3 | [rust-lang/rust](https://github.com/rust-lang/rust) | 114.3k | `Rust` | Empowering everyone to build reliable and efficient software. |
 | 4 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 108.3k | `Rust` | Build smaller, faster, and more secure desktop and mobile applications with a... |
-| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 107.7k | `Rust` | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
+| 5 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 107.8k | `Rust` | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCod... |
 | 6 | [denoland/deno](https://github.com/denoland/deno) | 107.3k | `Rust` | A modern runtime for JavaScript and TypeScript. |
 | 7 | [oven-sh/bun](https://github.com/oven-sh/bun) | 93.4k | `Rust` | Incredibly fast JavaScript runtime, bundler, test runner, and package manager... |
 | 8 | [openai/codex](https://github.com/openai/codex) | 93.4k | `Rust` | Lightweight coding agent that runs in your terminal |
 | 9 | [astral-sh/uv](https://github.com/astral-sh/uv) | 86.7k | `Rust` | An extremely fast Python package and project manager, written in Rust. |
 | 10 | [zed-industries/zed](https://github.com/zed-industries/zed) | 85.9k | `Rust` | Code at the speed of thought – Zed is a high-performance, multiplayer code ed... |
 | 11 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 75.4k | `Rust` | π RuView turns commodity WiFi signals into real-time spatial intelligence, vi... |
-| 12 | [unionlabs/union](https://github.com/unionlabs/union) | 73.9k | `Rust` | The trust-minimized, zero-knowledge bridging protocol, designed for censorshi... |
-| 13 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 65.7k | `Rust` | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands... |
+| 12 | [unionlabs/union](https://github.com/unionlabs/union) | 74.0k | `Rust` | The trust-minimized, zero-knowledge bridging protocol, designed for censorshi... |
+| 13 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 65.8k | `Rust` | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands... |
 | 14 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 65.4k | `Rust` | ripgrep recursively searches directories for a regex pattern while respecting... |
 | 15 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 64.7k | `Rust` | A cross-platform, OpenGL terminal emulator. |
 | 16 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 64.1k | `Rust` | A lightweight coding agent for open models like Deepseek, Kimi, and Qwen |
@@ -585,7 +585,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 22 | [starship/starship](https://github.com/starship/starship) | 58.5k | `Rust` | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any sh... |
 | 23 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58.3k | `Rust` | A lightning-fast search engine API bringing AI-powered hybrid search to your ... |
 | 24 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 58.0k | `Rust` | A curated list of Rust code and resources. |
-| 25 | [tw93/Pake](https://github.com/tw93/Pake) | 57.3k | `Rust` | 🤱🏻 Turn any webpage into a desktop app with one command. |
+| 25 | [tw93/Pake](https://github.com/tw93/Pake) | 57.4k | `Rust` | 🤱🏻 Turn any webpage into a desktop app with one command. |
 | 26 | [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) | 57.0k | `Rust` | Rust full node implementation of the Fuel v2 protocol. |
 | 27 | [typst/typst](https://github.com/typst/typst) | 54.5k | `Rust` | A markup-based typesetting system that is powerful and easy to learn. |
 | 28 | [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 54.4k | `Rust` | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
@@ -605,7 +605,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 42 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 38.4k | `Rust` | Spacedrive is an open source cross-platform file explorer, powered by a virtu... |
 | 43 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | 37.6k | `Rust` | A smarter cd command. Supports all major shells. |
 | 44 | [servo/servo](https://github.com/servo/servo) | 37.2k | `Rust` | Servo aims to empower developers with a lightweight, high-performance alterna... |
-| 45 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 37.0k | `Rust` | Browser automation CLI for AI agents |
+| 45 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 37.1k | `Rust` | Browser automation CLI for AI agents |
 | 46 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 36.5k | `Rust` | Fullstack app framework for web, desktop, and mobile. |
 | 47 | [pnpm/pnpm](https://github.com/pnpm/pnpm) | 35.6k | `Rust` | Fast, disk space efficient package manager |
 | 48 | [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 35.1k | `Rust` | Secure and fast microVMs for serverless computing. |
@@ -628,16 +628,16 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 65 | [vercel/turborepo](https://github.com/vercel/turborepo) | 30.6k | `Rust` | Build system optimized for JavaScript and TypeScript, written in Rust |
 | 66 | [sunface/rust-course](https://github.com/sunface/rust-course) | 30.6k | `Rust` | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内... |
 | 67 | [atuinsh/atuin](https://github.com/atuinsh/atuin) | 30.3k | `Rust` | ✨ Making your shell magical |
-| 68 | [jdx/mise](https://github.com/jdx/mise) | 30.0k | `Rust` | dev tools, env vars, task runner |
+| 68 | [jdx/mise](https://github.com/jdx/mise) | 30.1k | `Rust` | dev tools, env vars, task runner |
 | 69 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 29.9k | `Rust` | Professional Antigravity Account Manager & Switcher. One-click seamless accou... |
 | 70 | [jj-vcs/jj](https://github.com/jj-vcs/jj) | 29.8k | `Rust` | A Git-compatible VCS that is both simple and powerful |
 | 71 | [emilk/egui](https://github.com/emilk/egui) | 29.5k | `Rust` | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
 | 72 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 29.2k | `Rust` | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3... |
-| 73 | [ankitects/anki](https://github.com/ankitects/anki) | 28.7k | `Rust` | Anki is a smart spaced repetition flashcard program |
+| 73 | [ankitects/anki](https://github.com/ankitects/anki) | 28.8k | `Rust` | Anki is a smart spaced repetition flashcard program |
 | 74 | [chroma-core/chroma](https://github.com/chroma-core/chroma) | 28.6k | `Rust` | Search infrastructure for AI |
 | 75 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 28.6k | `Rust` | Hundreds of models & providers. One command to find what runs on your hardware. |
-| 76 | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) | 28.4k | `Rust` | A command-line benchmarking tool |
-| 77 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 28.2k | `Rust` | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Shee... |
+| 76 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 28.4k | `Rust` | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Shee... |
+| 77 | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) | 28.4k | `Rust` | A command-line benchmarking tool |
 | 78 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 27.1k | `Rust` | Get 10X more out of Claude Code, Codex or any coding agent |
 | 79 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | 26.9k | `Rust` | A library for building fast, reliable and evolvable network services. |
 | 80 | [wezterm/wezterm](https://github.com/wezterm/wezterm) | 26.9k | `Rust` | A GPU-accelerated cross-platform terminal emulator and multiplexer written by... |
@@ -667,10 +667,10 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 
 | Rank | Repository | Stars | Language | Description |
 |:---:|:---|:---:|:---:|:---|
-| 1 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 109.8k | `C#` | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
+| 1 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 109.9k | `C#` | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 | 2 | [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 59.6k | `C#` | A C# port of shadowsocks |
-| 3 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 54.1k | `C#` | PowerShell for every system! |
-| 4 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 53.6k | `C#` | The Free Software Media System - Server Backend & API |
+| 3 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 54.2k | `C#` | PowerShell for every system! |
+| 4 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 53.7k | `C#` | The Free Software Media System - Server Backend & API |
 | 5 | [files-community/Files](https://github.com/files-community/Files) | 44.0k | `C#` | A modern file manager that helps users organize their files and folders. |
 | 6 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 38.3k | `C#` | ShareX is a free and open-source application that enables users to capture or... |
 | 7 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.1k | `C#` | ASP.NET Core is a cross-platform .NET framework for building modern cloud-bas... |
@@ -680,7 +680,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 11 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 29.6k | `C#` | .NET debugger and assembly editor |
 | 12 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.2k | `C#` | Integrate cutting-edge LLM technology quickly and easily into your apps |
 | 13 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 27.2k | `C#` | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and s... |
-| 14 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 25.9k | `C#` | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
+| 14 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 26.0k | `C#` | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
 | 15 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | 25.5k | `C#` | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more)... |
 | 16 | [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | 25.1k | `C#` | Bitmap & tilemap generation from a single example with the help of ideas from... |
 | 17 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 24.7k | `C#` | UniGetUI: The Graphical Interface for your package managers. Could be terribl... |
@@ -744,8 +744,8 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 75 | [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | 11.6k | `C#` | Yet Another System Region and Language Simulator |
 | 76 | [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) | 11.5k | `C#` | A .NET library that makes it easier to create beautiful console applications. |
 | 77 | [mono/mono](https://github.com/mono/mono) | 11.5k | `C#` | Mono open source ECMA CLI, C# and .NET implementation. |
-| 78 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.4k | `C#` | Powerful .NET library for benchmarking |
-| 79 | [chocolatey/choco](https://github.com/chocolatey/choco) | 11.4k | `C#` | Chocolatey - the package manager for Windows |
+| 78 | [chocolatey/choco](https://github.com/chocolatey/choco) | 11.4k | `C#` | Chocolatey - the package manager for Windows |
+| 79 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.4k | `C#` | Powerful .NET library for benchmarking |
 | 80 | [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | 11.4k | `C#` | Saves Discord chat logs to a file |
 | 81 | [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 11.3k | `C#` | Json.NET is a popular high-performance JSON framework for .NET |
 | 82 | [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | 11.2k | `C#` | Application designed to optimize, customize and enhance your Windows experience. |
@@ -753,8 +753,8 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 84 | [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) | 11.1k | `C#` | Cross Platform Terminal UI toolkit for .NET |
 | 85 | [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) | 11.1k | `C#` | An updated version of the classic "Basic Computer Games" book, with well-writ... |
 | 86 | [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) | 11.0k | `C#` | Driver Store Explorer |
-| 87 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | 11.0k | `C#` | Kavita is a fast, feature rich, cross platform reading server. Built with the... |
-| 88 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 11.0k | `C#` | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give ... |
+| 87 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 11.0k | `C#` | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give ... |
+| 88 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | 11.0k | `C#` | Kavita is a fast, feature rich, cross platform reading server. Built with the... |
 | 89 | [Cysharp/UniTask](https://github.com/Cysharp/UniTask) | 11.0k | `C#` | Provides an efficient allocation free async/await integration for Unity. |
 | 90 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | 10.9k | `C#` | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-proto... |
 | 91 | [dotnet/orleans](https://github.com/dotnet/orleans) | 10.8k | `C#` | Cloud Native application framework for .NET |
@@ -813,7 +813,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 38 | [aristocratos/btop](https://github.com/aristocratos/btop) | 33.0k | `C++` | A monitor of resources |
 | 39 | [microsoft/WSL](https://github.com/microsoft/WSL) | 32.8k | `C++` | Windows Subsystem for Linux |
 | 40 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 32.2k | `C++` | Telegram Desktop messaging app |
-| 41 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) | 31.9k | `C++` | Compatibility tool for Steam Play based on Wine and additional components |
+| 41 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) | 32.0k | `C++` | Compatibility tool for Steam Play based on Wine and additional components |
 | 42 | [facebook/rocksdb](https://github.com/facebook/rocksdb) | 31.8k | `C++` | A library that provides an embeddable, persistent key-value store for fast st... |
 | 43 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 31.7k | `C++` | Official source code of FreeCAD, a free and opensource multiplatform 3D param... |
 | 44 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 31.5k | `C++` | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
@@ -832,7 +832,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 57 | [taichi-dev/taichi](https://github.com/taichi-dev/taichi) | 28.3k | `C++` | Productive, portable, and performant GPU programming in Python. |
 | 58 | [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) | 27.7k | `C++` | KeePassXC is a cross-platform community-driven port of the Windows applicatio... |
 | 59 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 27.6k | `C++` | An MCP-based chatbot \| 一个基于MCP的聊天机器人 |
-| 60 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 27.4k | `C++` | FinceptTerminal is a modern finance application offering advanced market anal... |
+| 60 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 27.5k | `C++` | FinceptTerminal is a modern finance application offering advanced market anal... |
 | 61 | [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) | 27.4k | `C++` | Emscripten: An LLVM-to-WebAssembly Compiler |
 | 62 | [ml-explore/mlx](https://github.com/ml-explore/mlx) | 27.2k | `C++` | MLX: An array framework for Apple silicon |
 | 63 | [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) | 27.0k | `C++` | The open-source database for the realtime web. |
@@ -941,7 +941,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 60 | [thedevdojo/voyager](https://github.com/thedevdojo/voyager) | 11.8k | `PHP` | Voyager - The Missing Laravel Admin |
 | 61 | [egulias/EmailValidator](https://github.com/egulias/EmailValidator) | 11.6k | `PHP` | PHP Email address validator |
 | 62 | [pestphp/pest](https://github.com/pestphp/pest) | 11.6k | `PHP` | Pest is an elegant PHP testing Framework with a focus on simplicity, meticulo... |
-| 63 | [walkor/workerman](https://github.com/walkor/workerman) | 11.5k | `PHP` | An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, ... |
+| 63 | [walkor/workerman](https://github.com/walkor/workerman) | 11.6k | `PHP` | An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, ... |
 | 64 | [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) | 11.5k | `PHP` | 🔐 JSON Web Token Authentication for Laravel & Lumen |
 | 65 | [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) | 11.4k | `PHP` | ARCHIVED |
 | 66 | [doctrine/inflector](https://github.com/doctrine/inflector) | 11.3k | `PHP` | Doctrine Inflector is a small library that can perform string manipulations w... |
@@ -967,8 +967,8 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 86 | [Leantime/leantime](https://github.com/Leantime/leantime) | 10.1k | `PHP` | Leantime is a goals focused project management system for non-project manager... |
 | 87 | [php-fig/container](https://github.com/php-fig/container) | 10.0k | `PHP` | - |
 | 88 | [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | 10.0k | `PHP` | :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） |
-| 89 | [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) | 10.0k | `PHP` | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adu... |
-| 90 | [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 10.0k | `PHP` | 📦 The official Nextcloud installation method. Provides easy deployment and ma... |
+| 89 | [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 10.0k | `PHP` | 📦 The official Nextcloud installation method. Provides easy deployment and ma... |
+| 90 | [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) | 10.0k | `PHP` | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adu... |
 | 91 | [akaunting/akaunting](https://github.com/akaunting/akaunting) | 9.9k | `PHP` | Online Accounting Software |
 | 92 | [mautic/mautic](https://github.com/mautic/mautic) | 9.9k | `PHP` | Mautic: Open Source Marketing Automation Software. |
 | 93 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | 9.8k | `PHP` | A source-available invoice, quote, project and time-tracking app built with L... |
@@ -1027,8 +1027,8 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 40 | [google/fonts](https://github.com/google/fonts) | 20.2k | `HTML` | Font files available from Google Fonts, and a public issue tracker for all th... |
 | 41 | [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) | 19.8k | `HTML` | Dism++ Multi-language Support & BUG Report |
 | 42 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 19.7k | `HTML` | Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML... |
-| 43 | [trycua/cua](https://github.com/trycua/cua) | 18.8k | `HTML` | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benc... |
-| 44 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 18.8k | `HTML` | AI-agent Skill for generating polished HTML slide decks: editorial magazine a... |
+| 43 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 18.8k | `HTML` | AI-agent Skill for generating polished HTML slide decks: editorial magazine a... |
+| 44 | [trycua/cua](https://github.com/trycua/cua) | 18.8k | `HTML` | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benc... |
 | 45 | [uikit/uikit](https://github.com/uikit/uikit) | 18.5k | `HTML` | A lightweight and modular front-end framework for developing fast and powerfu... |
 | 46 | [ftlabs/fastclick](https://github.com/ftlabs/fastclick) | 18.5k | `HTML` | Polyfill to remove click delays on browsers with touch UIs |
 | 47 | [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) | 18.4k | `HTML` | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop... |
@@ -1112,9 +1112,9 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 | 19 | [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 14.0k | `CSS` | Tomorrow Theme |
 | 20 | [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 12.9k | `CSS` | A showcase of problems once hard or impossible to solve with CSS alone, now m... |
 | 21 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12.9k | `CSS` | The simplest way to run LLaMA on your local machine |
-| 22 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 11.7k | `CSS` | A Patch for GIMP 3+ for Photoshop Users |
-| 23 | [devicons/devicon](https://github.com/devicons/devicon) | 11.7k | `CSS` | Set of icons representing programming languages, designing & development tools |
-| 24 | [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | 11.7k | `CSS` | Functional css for humans |
+| 22 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 11.8k | `CSS` | A Patch for GIMP 3+ for Photoshop Users |
+| 23 | [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | 11.7k | `CSS` | Functional css for humans |
+| 24 | [devicons/devicon](https://github.com/devicons/devicon) | 11.7k | `CSS` | Set of icons representing programming languages, designing & development tools |
 | 25 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | 11.7k | `CSS` | Welcome to the page where you will find each trick/technique/whatever I have ... |
 | 26 | [IBM/plex](https://github.com/IBM/plex) | 11.5k | `CSS` | The package of IBM’s typeface, IBM Plex. |
 | 27 | [picturepan2/spectre](https://github.com/picturepan2/spectre) | 11.3k | `CSS` | Spectre.css - A Lightweight, Responsive and Modern CSS Framework |
@@ -1197,7 +1197,7 @@ Top 100 GitHub repositories by star count, globally and per language. Auto-refre
 
 | Rank | Repository | Stars | Language | Description |
 |:---:|:---|:---:|:---:|:---|
-| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 519.2k | `Markdown` | Master programming by recreating your favorite technologies from scratch. |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 519.3k | `Markdown` | Master programming by recreating your favorite technologies from scratch. |
 | 2 | [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 134.5k | `Markdown` | Crack LeetCode, not only how, but also why.  |
 | 3 | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 62.9k | `Markdown` | Collaborative cheatsheets for console commands 📚. |
 | 4 | [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) | 36.4k | `Markdown` | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
